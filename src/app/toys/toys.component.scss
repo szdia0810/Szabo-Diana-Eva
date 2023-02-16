@@ -1,0 +1,24 @@
+@import'colors';
+
+blockquote {
+    background-color: $quote-backgound;
+    color: $quote-text;
+    text-align: center;
+    font-size: 2rem;
+    padding: 30px;
+    border: solid 1px #fff;
+    border-radius: 30px;
+}
+
+li {
+    color: $list-text;
+}
+
+img {
+    width: 25%;
+    float: right;
+}
+
+li:first-child {
+    font-weight: bold;
+}

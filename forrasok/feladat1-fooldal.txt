@@ -1,0 +1,7 @@
+Welcome to the home page of the Acme Plushie Store!
+
+On our site, you can learn about the history of various plushies and other types of stuffed animals and the founding of our store. You can also request new plushies to be added and view our current inventory.
+
+Our site is still under active development, thus there might be some errors, bugs that we didn’t manage to squash yet. Thank you for your understanding.
+
+We hope you enjoy your stay!
